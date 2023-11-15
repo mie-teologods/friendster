@@ -1,0 +1,107 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+  
+body {
+    background-color: #DA2FFF;
+}
+
+.div1{
+  float: left;
+  background-color: #EA8FEA;
+  margin-top: 40px;
+  margin-bottom: 50px;
+  margin-left: 8px;
+  height: 50px;
+  width: 180px;
+  padding: 10px;
+  border: 1px solid black;
+}
+
+.div2{
+  float: left;
+  background-color: #EA8FEA;
+  margin-top: 40px;
+  margin-bottom: 50px;
+  height: 50px;
+  width: 180px;
+  padding: 10px;
+  border: 1px solid black;
+}
+
+a{
+ text-decoration: none;
+ color: black;
+ font-family: 'Josefin Sans';
+ font-size: 15px;
+}
+
+div.profile{
+    float: left;
+    margin-left: 40px;
+    height: 490px;
+    width: 760px;
+    border: 3px solid black;
+}
+
+.logo-container img {
+  margin-left: 10px;
+  width: 100px;
+  height: 100px;
+}
+
+.image-container img {
+  margin-top: 10px;
+  margin-left: 10px;
+  width: 400px;
+  height: 360px;
+}
+
+div.information{
+    float: right;
+    margin-top: 10px;
+    margin-right: 10px;
+    font-family: 'Josefin Sans';
+}
+
+div.song{
+   float: right;
+   margin-top: -20px;
+   margin-bottom: 50px;
+   padding: 10px;
+}
+
+div.gallery{
+    float: right;
+    margin-right: 45px;
+    height: 290px;
+    width: 490px;
+    border: 3px solid black;
+}
+
+div.photo{
+  float: left;
+  margin: 5px;
+  margin-top: 20px;
+  margin-bottom: 100px;
+  border: 2px solid #000000;
+  width: 150px;
+  height: 245px;
+}
+
+div.photo img{
+  width: 120px;
+  height: 100px;
+}
+
+div.photo{
+  padding: 10px;
+  text-align: left;
+}
+
+div.info{
+    margin-top: 190px;
+    font-size: 12px;
+}
